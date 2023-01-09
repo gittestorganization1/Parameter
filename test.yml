@@ -5,5 +5,5 @@
 
 
 steps:
-- script: echo Hello, Test!
+- script: echo Hello, Main!
   displayName: 'Run a one-line script'
